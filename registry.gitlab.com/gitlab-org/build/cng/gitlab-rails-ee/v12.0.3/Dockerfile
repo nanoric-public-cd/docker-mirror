@@ -1,0 +1,1 @@
+FROM registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ee:v12.0.3
