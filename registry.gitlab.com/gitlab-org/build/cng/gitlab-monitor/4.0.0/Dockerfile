@@ -1,0 +1,1 @@
+FROM registry.gitlab.com/gitlab-org/build/cng/gitlab-monitor:4.0.0

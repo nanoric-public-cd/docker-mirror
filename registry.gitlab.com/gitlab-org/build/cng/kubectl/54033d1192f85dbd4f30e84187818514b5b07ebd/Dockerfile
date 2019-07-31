@@ -1,0 +1,1 @@
+FROM registry.gitlab.com/gitlab-org/build/cng/kubectl:54033d1192f85dbd4f30e84187818514b5b07ebd
