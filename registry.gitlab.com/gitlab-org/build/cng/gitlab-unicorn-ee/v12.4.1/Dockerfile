@@ -1,0 +1,1 @@
+FROM registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ee:v12.4.1

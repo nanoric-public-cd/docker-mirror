@@ -1,0 +1,1 @@
+FROM oliver006/redis_exporter:v0.34.1-alpine
